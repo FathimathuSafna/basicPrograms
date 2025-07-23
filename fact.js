@@ -8,7 +8,7 @@ if(num<0){
 }
 else{
 
-for(i=2;i<=num;i++){
+for(i=1;i<=num;i++){
     fact = fact*i
 }
 console.log("factorial of a number is fact",fact)
